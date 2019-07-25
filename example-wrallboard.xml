@@ -9,9 +9,9 @@
    </row>
    <row>
       <WorkgroupID>BPK_HM_Retentie</WorkgroupID>
-      <calls>9</calls>
-      <success>1</success>
-      <sales>0</sales>
+      <calls>150</calls>
+      <success>15</success>
+      <sales>5</sales>
       <generateOn>2019-07-24T13:16:13.940</generateOn>
    </row>
    <row>
