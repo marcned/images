@@ -2,7 +2,7 @@
 <root>
    <row>
       <WorkgroupID>BPK_DM_Retentie</WorkgroupID>
-      <calls>120</calls>
+      <calls>250</calls>
       <success>3</success>
       <sales>0</sales>
       <generateOn>2019-07-24T13:16:13.940</generateOn>
