@@ -23,9 +23,9 @@
    </row>
    <row>
       <WorkgroupID>BPK_SR_Retentie</WorkgroupID>
-      <calls>5</calls>
+      <calls>50</calls>
       <success>1</success>
-      <sales>0</sales>
+      <sales>25</sales>
       <generateOn>2019-07-24T13:16:13.940</generateOn>
    </row>
    <row>
